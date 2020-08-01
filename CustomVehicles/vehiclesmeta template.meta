@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+
+  </InitDatas>
+  <txdRelationships>
+    <Item>
+      <parent></parent>
+      <child></child>
+    </Item>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>
+// ARTXZZ is cool
